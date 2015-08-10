@@ -6,12 +6,12 @@ Output = 1,2
 
 Behavior = print numbers divisible by 3 as "ping"
 Input = 3
-Output = "ping"
+Output = [1, 2, "ping"]
 
 Behavior = print numbers divisible by 5 as "pong"
 Input = 5
-Output = "pong"
+Output = [1, 2, "ping", 4, "pong"]
 
 Behavior = print numbers divisible by 3 and 5 as "ping-pong"
 Input = 15
-Output = "ping-pong"
+Output = [1, 2, "ping", 4, "pong", "ping", 7, 8, "ping", "pong", 11, "ping", 13, 14, "ping-pong"]
