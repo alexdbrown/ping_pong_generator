@@ -1,6 +1,6 @@
 <?php
 
-    require_once "src/PingPongGenerator.php";
+    require_once "src/PingPongGenerator2.php";
 
     class PingPongGeneratorTest extends PHPUnit_Framework_TestCase
     {
