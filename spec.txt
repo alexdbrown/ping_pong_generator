@@ -1,0 +1,17 @@
+Ping Pong Generator Plain English Spec List
+
+Behavior = print number from 1 to user input
+Input = 100
+Output = 1,2,3,...100
+
+Behavior = print numbers divisible by 3 as "ping"
+Input = 6
+Output = "ping"
+
+Behavior = print numbers divisible by 5 as "pong"
+Input = 10
+Output = "pong"
+
+Behavior = print numbers divisible by 3 and 5 as "ping-pong"
+Input = 15
+Output = "ping-pong"
